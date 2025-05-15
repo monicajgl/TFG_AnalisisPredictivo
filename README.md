@@ -1,5 +1,6 @@
 # TFG_AnalisisPredictivo
-Código proyecto TFG Análisis Preedictivo de incidencias en redes de Madia Tensión
+
+Código y Memoria del proyecto "Análisis Predictivo de incidencias en redes de Madia Tensión"
 
 Este repositorio contiene el Trabajo Final de Grado (TFG) desarrollado en la Universitat Oberta de Catalunya (UOC) por Mónica García López.  
 
